@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.jdgohel.myapplication" />
+                  <option name="mobileSdkAppId" value="1:626694106138:android:ef001db0efe968f4fff5a3" />
+                  <option name="projectId" value="sqldatabase-b23ff" />
+                  <option name="projectNumber" value="626694106138" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
