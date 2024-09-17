@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626694106138",
+    "project_id": "sqldatabase-b23ff",
+    "storage_bucket": "sqldatabase-b23ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626694106138:android:ef001db0efe968f4fff5a3",
+        "android_client_info": {
+          "package_name": "com.jdgohel.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEu9qVaRgi-iPJ5-IO2aZ-xxgQPzn2PcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
